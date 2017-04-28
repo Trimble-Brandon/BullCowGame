@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\code\unrealcourse\section_02\bullcowgame\main.cpp(60): warning C4101: 'BCGame': unreferenced local variable
+  FBullCowGame.cpp
+  Generating Code...
+  BullCowGame.vcxproj -> D:\code\unrealcourse\Section_02\Debug\BullCowGame.exe
+  BullCowGame.vcxproj -> D:\code\unrealcourse\Section_02\Debug\BullCowGame.pdb (Partial PDB)
